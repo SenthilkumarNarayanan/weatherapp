@@ -71,7 +71,7 @@ button img{
 .weather h2{
     font-size: 45px;
     font-weight: 400;
-    margin-top: -10px;
+    margin-top: 20px;
 }
 .details {
     display: flex;

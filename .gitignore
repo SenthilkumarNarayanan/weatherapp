@@ -1,0 +1,16 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore Webpack build output
+dist/
+bundle.js
+
+# Ignore logs
+*.log
+
+# Ignore OS or editor files
+.DS_Store
+.vscode/
